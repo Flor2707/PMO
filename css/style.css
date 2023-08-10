@@ -2,3 +2,12 @@ h1 {
     color:aqua;
     background :palevioletred
 }
+body {
+    background-color: #736558;
+}
+.accordion-item {
+    background-color: #736558 !important;
+}
+.links {
+    color: whitesmoke;
+}
